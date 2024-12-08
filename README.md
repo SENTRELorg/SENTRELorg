@@ -33,7 +33,9 @@ SENTREL AI is still in its early stages, but it is structured to be easily exten
 • Develop SENTREL-driven communities focused on mentorship and empowerment.
 
 <b>Phase 4: Advanced Integrations:</b><br>
-• Release SENTREL Token Staking to expand SENTREL’s supporters functionality and reach.
+• Release SENTREL Token Staking to expand SENTREL’s supporters functionality and reach.<br>
+
+<img src="https://github.com/user-attachments/assets/6b60e9a6-6c5b-4bc0-a05f-25aed5934ad1" alt="stakingSENTREL">
 
 ---
 
