@@ -17,7 +17,9 @@ SENTREL is an advanced Artificial Intelligence (AI) framework built using JavaSc
 
 Through this project, you will explore key concepts like neural networks, deep learning, reinforcement learning, and advanced optimization algorithms, all of which contribute to the development of a more autonomous and capable AI system.
 
-SENTREL AI is still in its early stages, but it is structured to be easily extendable and scalable for future improvements. The current implementation demonstrates basic machine learning models and training loops, focusing on potential applications such as robotics, self-learning systems, real-time feedback processing and more.
+SENTREL AI is still in its early stages, but it is structured to be easily extendable and scalable for future improvements. The current implementation demonstrates basic machine learning models and training loops, focusing on potential applications such as robotics, self-learning systems, real-time feedback processing and more.<br>
+
+<img src="https://github.com/user-attachments/assets/18977dc5-0b14-4690-939f-b6fa03853297" alt="chatSENTREL">
 
 ---
 
