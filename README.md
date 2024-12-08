@@ -66,7 +66,9 @@ SENTREL AI is still in its early stages, but it is structured to be easily exten
 - **Reinforcement Learning:** Adapts SENTREL's behavior based on interactions with its environment.
 
 </details><br>
-<img src="https://github.com/user-attachments/assets/8a197387-f0f4-4f54-a918-e85dca8728f6" alt="SENTRELwhitepaper">
+<img src="https://github.com/user-attachments/assets/8a197387-f0f4-4f54-a918-e85dca8728f6" alt="SENTRELwhitepaper" style="width: 80%;"><br>
+<img src="https://github.com/user-attachments/assets/577b4d56-f2fe-4370-a951-cfe993759d50" alt="SENTRELwhitepaper2" style="width: 80%;">
+
 
 ---
 
