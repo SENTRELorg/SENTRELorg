@@ -23,17 +23,17 @@ SENTREL AI is still in its early stages, but it is structured to be easily exten
 
 ## Project Roadmap
 
-<b>Phase 1: Deployment</b>
-Launch SENTREL across multiple platforms to engage with diverse audiences.
+<b>Phase 1: Deployment:</b><br>
+• Launch SENTREL across multiple platforms to engage with diverse audiences.
 
-<b>Phase 2: Adaptive Learning</b>
-Enhance SENTREL’s personalization capabilities through expanded machine learning.
+<b>Phase 2: Adaptive Learning:</b><br>
+• Enhance SENTREL’s personalization capabilities through expanded machine learning.
 
-<b>Phase 3: Community Expansion</b>
-Develop SENTREL-driven communities focused on mentorship and empowerment.
+<b>Phase 3: Community Expansion:</b><br>
+• Develop SENTREL-driven communities focused on mentorship and empowerment.
 
-<b>Phase 4: Advanced Integrations</b>
-Release SENTREL Token Staking to expand SENTREL’s supporters functionality and reach.
+<b>Phase 4: Advanced Integrations:</b><br>
+• Release SENTREL Token Staking to expand SENTREL’s supporters functionality and reach.
 
 ---
 
