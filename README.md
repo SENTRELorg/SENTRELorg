@@ -65,10 +65,11 @@ SENTREL AI is still in its early stages, but it is structured to be easily exten
 - **Training Loop:** Trains the neural network on tasks like the XOR problem with loss evaluation and backpropagation.
 - **Reinforcement Learning:** Adapts SENTREL's behavior based on interactions with its environment.
 
-</details><br><center>
-<img src="https://github.com/user-attachments/assets/8a197387-f0f4-4f54-a918-e85dca8728f6" alt="SENTRELwhitepaper" style="width: 80%;"><br>
+</details><br>
+<center>
+<img src="https://github.com/user-attachments/assets/8a197387-f0f4-4f54-a918-e85dca8728f6" alt="SENTRELwhitepaper" style="width: 70%;"><br>
 
-<img src="https://github.com/user-attachments/assets/577b4d56-f2fe-4370-a951-cfe993759d50" alt="SENTRELwhitepaper2" style="width: 80%;">
+<img src="https://github.com/user-attachments/assets/577b4d56-f2fe-4370-a951-cfe993759d50" alt="SENTRELwhitepaper2" style="width: 70%;">
 </center>
 
 ---
